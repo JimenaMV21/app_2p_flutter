@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656444153196",
+    "project_id": "autorization-efe71",
+    "storage_bucket": "autorization-efe71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656444153196:android:406d791f6fb08890262749",
+        "android_client_info": {
+          "package_name": "com.example.app_segpar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnJIZ5fMgBwds3PgbfO5Ebyd-hD-Fnnno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
